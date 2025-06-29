@@ -25,6 +25,8 @@ Start the Development Server
 
 npm run dev
 
+Video is attached as assets/video
+
 ⚙️ Backend Setup
 
 Navigate to the backend directory (if separate).
