@@ -38,7 +38,6 @@ GITHUB_CLIENT_SECRET=your-github-client-secret
 FACEBOOK_APP_ID=your-facebook-app-id
 FACEBOOK_APP_SECRET=your-facebook-app-secret
 
-FRONTEND_URL=http://localhost:3000
 
 Install backend dependencies and run the server:
 
@@ -46,7 +45,7 @@ cd backend
 npm install
 node server.js
 
-The backend will run at: http://localhost:5000
+
 
 📌 Features
 •	🔐 OAuth Login: Google, GitHub, Facebook
@@ -78,4 +77,4 @@ Frontend can be deployed on Netlify, Vercel, or Firebase Hosting.
 Backend can be hosted on Render, Railway, Heroku, or VPS services.
 
 
-#Author Mohanavalli
+Author Mohanavalli
