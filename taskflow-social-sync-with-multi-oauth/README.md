@@ -54,31 +54,58 @@ node server.js
 
 📌 Features
 •	🔐 OAuth Login: Google, GitHub, Facebook
+
 •	✅ Create, Edit, Delete To-Do Tasks
+
 •	🔁 Real-time Sync & API Integration
+
 •	🧑‍🤝‍🧑 Multi-user Collaboration
+
 •	📱 Responsive and Clean UI
+
 •	🎨 Tailwind-powered Modern Interface
+
+
 🧰 Tech Stack
+
 Frontend:
+
 •	React
+
 •	TypeScript
+
 •	Vite
+
 •	Tailwind CSS
+
 •	shadcn/ui
+
 •	Lucide Icons
+
 Backend:
+
 •	Node.js
+
 •	Express.js
+
 •	MongoDB
+
 •	Passport.js (OAuth for Google, GitHub, Facebook)
+
 •	JWT for authentication
+
 📦 Scripts
+
 •	npm run dev – Start frontend in development
+
 •	npm start – (Backend) Run Express server
+
 •	npm run build – Build frontend for production
+
 🚀 Deployment
+
 Frontend can be deployed on Netlify, Vercel, or Firebase Hosting.
+
 Backend can be hosted on Render, Railway, Heroku, or VPS services.
 
 
