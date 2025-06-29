@@ -6,6 +6,7 @@ URL: _Add your deployed URL here (e.g., Netlify, Vercel, Render, etc.)_
 
 🛠 How to Run This Project Locally
 Make sure you have Node.js and npm installed. It’s recommended to use nvm to manage Node versions.
+
 📁 Clone and Setup
 
 # Clone the repository
