@@ -1,4 +1,5 @@
 ✅ To-Do List Project
+
 To-Do List Project is a full-stack task management web application that helps users collaborate on tasks, manage productivity, and sync their workflows using social OAuth logins. Built with a modern tech stack including React, Vite, TypeScript, Tailwind CSS, and Node.js with Express and MongoDB.
 
 🌐 Live Project
